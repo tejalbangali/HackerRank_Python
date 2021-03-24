@@ -1,0 +1,6 @@
+n=int(input())
+arr=input()
+li1= set(map(int,arr.split(' ')))
+li=list(li1)
+li.sort()
+print(li[-2])
