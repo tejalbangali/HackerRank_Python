@@ -1,4 +1,6 @@
-# --> Write a Program to print three lines where:
+#Link --> https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+
+# Write a Program to print three lines where:
 # The first line contains the sum of the two numbers.
 # The second line contains the difference between the two numbers (first - second).
 # The third line contains the product of the two numbers.
